@@ -12,18 +12,18 @@ global.APIs = {
 	zenz: 'https://zenzapi.xyz', 
 }
 global.APIKeys = {
-	'https://zenzapi.xyz': '805a6c3fa9', //Kalau habis beli sendiri
+	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
 //other
-global.owner = ['27634090203'] 
-global.pemilik = ['27634090203'] //pemilik nomor
-global.premium = ['27634090203'] //premium number
-global.pengguna = 'Drips' //pengguna
-global.botnma = 'ZIM BOT INC' //botnama,botname
-global.ownernma = 'Drips' //ownernama,ownername
-global.packname = 'Drips' // packname
-global.author = 'By Drips Memes' //authorname
+global.owner = ['263715183177'] 
+global.pemilik = ['263715183177'] //pemilik nomor
+global.premium = ['263715183177'] //premium number
+global.pengguna = 'Juice KiD' //pengguna
+global.botnma = 'Juice Bot' //botnama,botname
+global.ownernma = 'Juice Kid' //ownernama,ownername
+global.packname = 'Juice Bot' // packname
+global.author = 'By Juice KiD' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
